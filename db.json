@@ -1,0 +1,32 @@
+{
+  "sessions": [
+    {
+      "email": "adeilson@gmail.com",
+      "password": "1234",
+      "createdAt": 1581707675312,
+      "token": "token",
+      "user": {
+        "provider": true,
+        "name": "Ade",
+        "avatar": {
+          "url": null
+        }
+      },
+      "id": 1
+    }
+  ],
+  "notifications": [
+    {
+      "_id": 1,
+      "id": 2,
+      "read": 0,
+      "content": "ade",
+      "createdAt": "2020-02-14"
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2020-02-14"
+    }
+  ]
+}
