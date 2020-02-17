@@ -13,6 +13,34 @@
         }
       },
       "id": 1
+    },
+    {
+      "email": "adeilson@gmail.com",
+      "password": "1234",
+      "createdAt": 1581940107707,
+      "token": "token",
+      "user": {
+        "provider": true,
+        "name": "Ade",
+        "avatar": {
+          "url": null
+        }
+      },
+      "id": 2
+    },
+    {
+      "email": "adeilson@gmail.com",
+      "password": "1234",
+      "createdAt": 1581941321483,
+      "token": "token",
+      "user": {
+        "provider": true,
+        "name": "Ade",
+        "avatar": {
+          "url": null
+        }
+      },
+      "id": 3
     }
   ],
   "notifications": [
@@ -26,7 +54,7 @@
   ],
   "schedule": [
     {
-      "date": "2020-02-14"
+      "date": "2020-02-17"
     }
   ]
 }

@@ -8,7 +8,10 @@ server.use(middlewares);
 
 // Add custom routes before JSON Server router
 server.get("/schedule", (req, res) => {
-  req.query.date = "2020-02-14 08:00:00";
+  req.query.date = "2020-02-17 11:00:00";
+  req.query.user = {
+    name: "Adeilson"
+  };
   data = [{ ...req.query }];
 
   // res.jsonp({ data: { ...req.query } });
